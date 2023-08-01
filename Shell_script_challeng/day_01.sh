@@ -8,7 +8,7 @@ echo "welcome to shell script tws7daychallenges this is day one task! "
 
 echo 'BASH='$BASH
 echo 'BASH_VERSION='$BASH_VERSION
-HOST_NAME="ubuntu"
+echo HOST_NAME="ubuntu"
 echo "host_name is $HOST_NAME"
 
 #user defind variable
